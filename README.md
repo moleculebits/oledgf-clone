@@ -34,7 +34,7 @@ In order to do so it requires:
 
 First clone the main repo and enter root dir of project
 ```
-git clone https://gitlab.ethz.ch/tmarcato/oledgf.git
+git clone https://gitfront.io/r/moleculebits/rd92to9H5Vqb/oledgf.git
 cd oledgf
 ```
 
