@@ -39,8 +39,8 @@ In order to do so it requires:
 
 First clone the main repo and enter root dir of project
 ```
-git clone https://github.com/moleculebits/oledgf
-cd oledgf
+git clone https://github.com/moleculebits/oledgf-clone
+cd oledgf-clone
 ```
 
 Open terminal and run
