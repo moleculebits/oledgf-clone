@@ -1,5 +1,5 @@
-### DISCLAIMER
-This repository is a clone of the institutional GitLab repository, where the OLEDgf project is being developed. It is intended for demonstration purposes ONLY and should not be forked. The first full release to GitHub is expected soon.
+### Disclaimer
+This repository is a clone of the institutional GitLab repository where the OLEDgf project is being developed. It is intended for demonstration purposes ONLY and should not be forked. The first full release to GitHub is expected soon.
 ### oledgf (OLED green's function)
 Is a high-performance library for simulating and fitting the energy emission behavior of light-emitting material stacks. This library is under active development by T. Marcato and M. Nouman at ETH Zurich.
 
